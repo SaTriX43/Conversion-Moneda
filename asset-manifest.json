@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Conversion-Moneda/static/css/main.5aaff543.css",
+    "main.js": "/Conversion-Moneda/static/js/main.1615335b.js",
+    "static/media/JPY.png": "/Conversion-Moneda/static/media/JPY.4523eeede8de5d54608f.png",
+    "static/media/imagen-dinero.png": "/Conversion-Moneda/static/media/imagen-dinero.a0be6bf4695f98a52113.png",
+    "static/media/USA.png": "/Conversion-Moneda/static/media/USA.4cc1f6b9d4bd85d2bfb3.png",
+    "index.html": "/Conversion-Moneda/index.html",
+    "main.5aaff543.css.map": "/Conversion-Moneda/static/css/main.5aaff543.css.map",
+    "main.1615335b.js.map": "/Conversion-Moneda/static/js/main.1615335b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aaff543.css",
+    "static/js/main.1615335b.js"
+  ]
+}
