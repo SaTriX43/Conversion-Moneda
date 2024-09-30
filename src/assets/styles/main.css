@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 100vw;
+    min-height: 100vh;
+
+    background-image: url(../images/imagen-dinero.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.fondo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    min-height: 100vh;
+    z-index: -1;
+
+    background-color: rgba(0, 0, 0, 0.276);
+}
+
+.App {
+    display: flex;
+    width: 100vw;
+    min-height: 100vh;
+
+    align-items: center;
+    justify-content: center;
+}
